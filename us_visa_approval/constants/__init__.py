@@ -1,5 +1,7 @@
 import os
 from datetime import date
+# from dotenv import load_dotenv
+# load_dotenv()
 
 DATABASE_NAME = "us_visa"
 COLLECTION_NAME = "visa_data"
